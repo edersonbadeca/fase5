@@ -103,6 +103,10 @@ scikit-learn==1.2.2
 matplotlib==3.7.1
 seaborn==0.12.2
 ```
+### Visualização da estimativa AWS
+ [Clique aqui](https://calculator.aws/#/estimate?id=a15eea6653b7058a6a6f2bc1b921f595f1b1fa49) para verificar as estimativas da AWS
+ 
+ [AWS Pricing Calculator Ederson Badeca.pdf](./document/AWS%20Pricing%20Calculator%20Ederson%20Badeca.pdf) - Documento PDF com detalhes da análise de custos
 
 ### Instalação e execução
 
