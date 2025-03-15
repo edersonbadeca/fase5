@@ -11,7 +11,7 @@
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/edersonbadeca">Ederson Badeca</a>
+- <a href="www.linkedin.com/in/ederson-badeca">Ederson Badeca</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
