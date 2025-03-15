@@ -1,0 +1,31 @@
+# Requirements for FarmTech Solutions ML Project
+# Python 3.8+ recommended
+
+# Data manipulation and analysis
+pandas==1.5.3
+numpy==1.24.3
+
+# Machine Learning
+scikit-learn==1.2.2
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter environment
+jupyter==1.0.0
+notebook==6.5.4
+ipykernel==6.22.0
+
+# Statistical analysis
+scipy==1.10.1
+
+# Optional: for advanced visualizations
+plotly==5.14.1
+
+# Optional: for interactive widgets in Jupyter
+ipywidgets==8.0.6
+
+# Optional: for handling Excel files if needed
+openpyxl==3.1.2
+xlrd==2.0.1 
