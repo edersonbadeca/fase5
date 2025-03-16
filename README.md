@@ -43,9 +43,8 @@
 Este projeto representa a Fase 5 do nosso curso, onde atuamos como consultores da FarmTech Solutions, uma empresa especializada em soluções de Inteligência Artificial para o setor agrícola. Nossa missão é desenvolver modelos preditivos e análises de tendências para uma fazenda de médio porte (aproximadamente 200 hectares) que cultiva diversas culturas.
 
 ### Link para o video de demonstração
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sNbz5H2CgRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Assista ao vídeo](./assets/thumb.png)](https://youtu.be/sNbz5H2CgRA)
 
-[Clique aqui para visualizar o video](https://youtu.be/sNbz5H2CgRA)
 
 
 ### Objetivos do Projeto
