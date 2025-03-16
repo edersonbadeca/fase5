@@ -24,7 +24,24 @@
 
 # FarmTech Solutions: Machine Learning e Computação em Nuvem para Agricultura de Precisão
 
+## Índice
+1. [Descrição do Projeto](#-descrição)
+2. [Objetivos do Projeto](#objetivos-do-projeto)
+3. [Tecnologias e Ferramentas](#tecnologias-e-ferramentas)
+4. [Impacto e Aplicações](#impacto-e-aplicações)
+5. [Estrutura de Pastas](#-estrutura-de-pastas)
+6. [Como Executar o Código](#-como-executar-o-código)
+   - [Pré-requisitos](#pré-requisitos)
+   - [Bibliotecas Necessárias](#bibliotecas-necessárias)
+   - [Visualização da Estimativa AWS](#visualização-da-estimativa-aws)
+   - [Instalação e Execução](#instalação-e-execução)
+   - [Estrutura do Notebook](#estrutura-do-notebook)
+   - [Dados](#dados)
+   - [Resultados](#resultados)
+7. [Licença](#-licença)
+
 Este projeto representa a Fase 5 do nosso curso, onde atuamos como consultores da FarmTech Solutions, uma empresa especializada em soluções de Inteligência Artificial para o setor agrícola. Nossa missão é desenvolver modelos preditivos e análises de tendências para uma fazenda de médio porte (aproximadamente 200 hectares) que cultiva diversas culturas.
+
 
 ### Objetivos do Projeto
 
