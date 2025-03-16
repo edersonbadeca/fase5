@@ -29,8 +29,12 @@
 2. [Objetivos do Projeto](#objetivos-do-projeto)
 3. [Tecnologias e Ferramentas](#tecnologias-e-ferramentas)
 4. [Impacto e Aplicações](#impacto-e-aplicações)
-5. [Estrutura de Pastas](#-estrutura-de-pastas)
-6. [Como Executar o Código](#-como-executar-o-código)
+5. [Vídeos de Demonstração](#vídeos-de-demonstração)
+   - [Demonstração do Notebook](https://youtu.be/sNbz5H2CgRA)
+   - [Demonstração da Estimativa AWS](https://youtu.be/xvLMXPNAjho)
+6. [Notebook Jupyter](./src/EdersonBadeca_rm560204_pbl_fase5.ipynb)
+7. [Estrutura de Pastas](#-estrutura-de-pastas)
+8. [Como Executar o Código](#-como-executar-o-código)
    - [Pré-requisitos](#pré-requisitos)
    - [Bibliotecas Necessárias](#bibliotecas-necessárias)
    - [Visualização da Estimativa AWS](#visualização-da-estimativa-aws)
@@ -38,12 +42,15 @@
    - [Estrutura do Notebook](#estrutura-do-notebook)
    - [Dados](#dados)
    - [Resultados](#resultados)
-7. [Licença](#-licença)
+9. [Licença](#-licença)
 
 Este projeto representa a Fase 5 do nosso curso, onde atuamos como consultores da FarmTech Solutions, uma empresa especializada em soluções de Inteligência Artificial para o setor agrícola. Nossa missão é desenvolver modelos preditivos e análises de tendências para uma fazenda de médio porte (aproximadamente 200 hectares) que cultiva diversas culturas.
 
-### Link para o video de demonstração
+### Link para o video de demonstração do Notebook
 [![Assista ao vídeo](./assets/thumb.png)](https://youtu.be/sNbz5H2CgRA)
+
+### Link para o video de demonstração do aws estimate
+[![Assista ao vídeo](./assets/aws-calculator.png)](https://youtu.be/xvLMXPNAjho)
 
 
 
