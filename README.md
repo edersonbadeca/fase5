@@ -107,6 +107,9 @@ seaborn==0.12.2
  [Clique aqui](https://calculator.aws/#/estimate?id=a15eea6653b7058a6a6f2bc1b921f595f1b1fa49) para verificar as estimativas da AWS
  
  [AWS Pricing Calculator Ederson Badeca.pdf](./document/AWS%20Pricing%20Calculator%20Ederson%20Badeca.pdf) - Documento PDF com detalhes da análise de custos
+ 
+ [AWS Technical Decision](./document/AWS_technical_decision.md) - Documento com justificativa técnica da escolha da infraestrutura AWS
+ 
 
 ### Instalação e execução
 
