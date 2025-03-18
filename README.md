@@ -12,6 +12,7 @@
 
 ## 👨‍🎓 Integrantes: 
 - <a href="www.linkedin.com/in/ederson-badeca">Ederson Badeca</a>
+- <a href="https://www.linkedin.com/in/lfhillesheim/">Lucas Ferreira Hillesheim</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
