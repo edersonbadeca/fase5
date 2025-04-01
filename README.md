@@ -55,7 +55,7 @@ Este projeto representa a Fase 5 do nosso curso, onde atuamos como consultores d
 
 ### Feedback da faculdade
 
-feedback do professor*
+*feedback do professor*
 *Pontos positivos:*
 *A análise exploratória dos dados foi bem feita, com gráficos claros, descrição das variáveis e identificação de padrões.*
 *A aplicação de clusterização (KMeans) foi implementada corretamente, com visualização dos clusters e comentários sobre possíveis tendências.*
