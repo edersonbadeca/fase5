@@ -53,7 +53,30 @@ Este projeto representa a Fase 5 do nosso curso, onde atuamos como consultores d
 ### Link para o video de demonstração do aws estimate
 [![Assista ao vídeo](./assets/aws-calculator.png)](https://youtu.be/xvLMXPNAjho)
 
+### Feedback da faculdade
 
+feedback do professor*
+*Pontos positivos:*
+*A análise exploratória dos dados foi bem feita, com gráficos claros, descrição das variáveis e identificação de padrões.*
+*A aplicação de clusterização (KMeans) foi implementada corretamente, com visualização dos clusters e comentários sobre possíveis tendências.*
+*Foram construídos cinco modelos preditivos distintos, com comparação por métricas como R², MAE e MSE.*
+*O código Python está bem organizado, com boas práticas, comentários explicativos e estrutura de Markdown para guiar a leitura.*
+*Sobre o ir alem:Boa documentação e desenvolvimento do esquematico elétrico.*
+*Código bem estruturado e dividido nas pastas.*
+*Criação do Front End*
+*A Entrega 2 foi executada com qualidade:*
+*Os custos foram estimados de forma detalhada, com uso da AWS Pricing Calculator, comparando São Paulo (US$ 12,49/mês) e Virgínia do Norte (US$ 7,07/mês).*
+*O documento mostra o uso de instância t4g.micro e 50GB de EBS, atendendo exatamente aos requisitos da proposta.*
+*A justificativa é sólida, considerando:*
+*A latência mais baixa ao hospedar no Brasil.*
+*A necessidade de conformidade com a LGPD, especialmente em se tratando de dados sensíveis.*
+*O equilíbrio entre custo e desempenho, defendendo tecnicamente a escolha por São Paulo, mesmo com valor superior.*
+*A conclusão é clara, com uma recomendação alinhada às boas práticas de computação em nuvem para aplicações sensíveis e geograficamente localizadas.*
+ 
+*Pontos de melhoria:*
+*Nenhum ponto relevante foi identificado. A entrega está completa e de alta qualidade.*
+
+*Parabéns pelo trabalho! O projeto cobre com excelência todos os pontos solicitados: desde a modelagem de dados com análise e previsão de rendimento agrícola, até a justificativa técnica e legal para a escolha da infraestrutura em nuvem. A decisão final foi bem fundamentada e comunicada de maneira clara e profissional. Um projeto maduro, com ótima aplicabilidade e pronto para ser usado em portfólio ou como case real de aplicação de IA no agronegócio.*
 
 ### Objetivos do Projeto
 
